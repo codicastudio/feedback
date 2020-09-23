@@ -1,10 +1,8 @@
 {
-    "name": "codicastudio/feedback",
-    "description": "A noobs worthless garbage, just learning.",
-    "keywords": [
-        "worthless garabage by a noob."
-    ],
-    "homepage": "https://github.com/codicastudio/feedback",
+    "name": "codica-studio/feedback",
+    "description": "A random Codica Studio package.",
+
+    "homepage": "https://github.com/codica-studio/feedback",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +13,7 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "laravel/framework": "^8.0"
     },
     "require-dev": {
